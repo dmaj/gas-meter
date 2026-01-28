@@ -1,6 +1,5 @@
-## Kann jetzt endlich meinen Gaszähler remote auslesen. Habe ein Progrämmchen für den ESP32 gebastelt. Ist allerdings mit heißer Nadel gestrickt und hat sicher noch einige Bugs. Die Benutzung geschieht auf eigenes Risiko. Die erste Version war in einem Kommentar von “Tkaule” auf dieser Webseite: [ng3d-druck](https://ng3d-druck.de/products/reedkontakt-sensor-bk-gaszaehler-esp32). Ich habe dann einige Stunden investiert, um noch einige Features dazu zu packen. Auf der Seite kann man sich auch eine passende Halterung kaufen. 
+Kann jetzt endlich meinen Gaszähler remote auslesen. Habe ein Progrämmchen für den ESP32 gebastelt. Ist allerdings mit heißer Nadel gestrickt und hat sicher noch einige Bugs. Die Benutzung geschieht auf eigenes Risiko. Die erste Version war in einem Kommentar von “Tkaule” auf dieser Webseite: [ng3d-druck](https://ng3d-druck.de/products/reedkontakt-sensor-bk-gaszaehler-esp32). Ich habe dann einige Stunden investiert, um noch einige Features dazu zu packen. Auf der Seite kann man sich auch eine passende Halterung kaufen. 
 
-## ---
 
 **📘 Bedienungsanleitung: Smart Gas Meter (ESP32-C3)**
 
