@@ -102,3 +102,6 @@ PubSubClient
 - Version: 2.8
 - A client library for MQTT messaging. MQTT is a lightweight messaging protocol.
 
+**7\. Used cpu board**
+
+I’m using the “Waveshare ESP32-C3-Mini.” Other boards from this family will work as well. But it should have a controllable RGB LED built in. That’s not the case with all C3 boards. If you don’t have an RGB LED, you’ll need to adjust the signaling via the LED. That was the case for me, for example, with the “Waveshare ESP32-C3-Zero.” That’s why the NeoPixel library (for controlling single-wire-based LED pixels) is included in the project.
