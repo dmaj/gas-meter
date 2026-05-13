@@ -85,3 +85,20 @@ Der ESP32 sendet folgende Werte an deinen Broker:
 | topic/ticks | Anzahl der Impulse seit Reset | \- |
 
 | topic/status | Online-Status des Geräts | online/offline |
+
+### ---
+
+**7\. Used libraries**
+
+Adafruit NeoPixel
+- Autor: Adafruit
+- Version: 1.15.5
+- Arduino library for controlling single-wire-based LED pixels and strip.
+
+### -
+
+PubSubClient
+- Autor: Nick O'Leary
+- Version: 2.8
+- A client library for MQTT messaging. MQTT is a lightweight messaging protocol.
+
